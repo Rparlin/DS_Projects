@@ -35,5 +35,8 @@ For example, the Army can model its current successful Soldiers that have decide
 
 This paper explores several machine learning and data mining techniques that could be useful in finding answers to questions like these and facilitate Army marketing efforts.   
 
-
+******************************************************************************************************************************************************************************
+## Rapid Analysis Report
+This project was insipired by a real job interview from a data analysis company.  Each student was provided a smal ldataset and given 30 minute to analyze
+Each of 5 schools (A, B, C, D and E) is implementing the same math course this semester, with 35 lessons. There are 30 sections total. The semester is about 3/4 of the way through.
 

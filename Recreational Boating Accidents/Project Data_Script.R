@@ -1,4 +1,4 @@
-# Ralph Parlin - Group 1 Project
+# Ralph Parlin - Viz Script
 
 
 

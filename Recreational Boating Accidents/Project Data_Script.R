@@ -33,7 +33,7 @@ View(df)
 colnames(df)
 
 df <- df %>% rename(
-  Year = ï..ReleasableAccidents_Year, #this name sometimes need to be recopied since it has a wierd character at the begining
+  Year = Ã¯..ReleasableAccidents_Year, #this name sometimes need to be recopied since it has a wierd character at the begining
   Day1y = Day..1...yes.,
   Death = Death..1...Yes.,
   Injury = Injury..1...Yes.)

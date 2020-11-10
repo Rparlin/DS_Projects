@@ -22,6 +22,8 @@ What happened?
 What was the cause?
 
 
+
+
 ## U.S. Army Recruiting: Applications for Data Analytics and Machine Learning
 There has been much discussion on Army recruiting for decades, but today’s data-rich environment offers new ways the Army can leverage and deployed data-driven outreach and recruiting strategies.
 

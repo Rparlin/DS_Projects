@@ -55,3 +55,10 @@ The world is currently undergoing the largest online learning academic endeavor 
 **************************************************************************************************************************************************************************************
 ## Shakespeare Anyone?
 Many believe William Shakespeare is considered one of the greatest playwrights in the English language. He is attributed with 38 plays, 154 sonnets, and other works. Even 400 years later, his writings are still be studied in most high schools and colleges in the US and elsewhere. Shakespeare’s complete works are available online at http://shakespeare.mit.edu/. This analysis uses a data set which has Shakespeare character quotes. A lot of people are fascinated by the characters in the Shakespeare plays. The first first part of the analysiscreates a Shakespeare character recommender system which is capable of recommending new characters which are similar to a speicific character of interest. This analysis also explores using PCA inference to find important words in character quotes. LAstly, this analysis uses K-Means clustering to try and find one or more character insights. This analysis was conducted using Spark and Python.
+
+**************************************************************************************************************************************************************************************
+Inference on Diamonds!
+
+These are two Jupyter Notebooks that use Apache Spark (and Python) to conduct distributed processing. The data files are not large, but they efficiently allow the demonstration of how distributed processing works.
+
+If you don't have Spark (Java/Hadoop) installed on your computer, simply download the Notebook and data file to your local directory and explore the using DataBricks (https://community.cloud.databricks.com/login.html) or a crowd favorite, Google Colab (https://community.cloud.databricks.com/login.html)

@@ -1,13 +1,40 @@
+## How I Want to Contribute
+During his tenure, Secretary of Defense Mark Esper told Congress his number one priority for Department of Defense technology modernization is artificial intelligence.  He believes the country that masters artificial intelligence first will dominate the battlefield for many years to come.  My aim is to help ensure our country arrives first by being among the professionals working to advance the Department of Defense’s understanding of modern data techniques and capabilities and how to apply them to maintain dominance across all warfighting domains.  
 
-## Bio
+Upon completion of my degree I want to focus on accelerating the delivery and adoption of machine learning and artificial intelligence. Drawing on my experience as a tactical leader, I want to help advance technologies that improve tactical leader situational awareness and capability.  The men and women in our military face extraordinary challenges on the modern battlefield.  Ensuring they are more prepared than our adversaries requires having the right team in their corner.  I am confident my operational background, my policy experience at the strategic level, and my academic work as a data scientist uniquely positions me to help lead the Army in preparing our service members to meet the changing character of warfare in the modern information era.
+
+## Biography
 
 ### " I’ve experienced first-hand how having correct information at the right time can be the difference between saving and costing lives.  Getting this right is my purpose."
 
 Working as a lobster fisherman in Maine after high school, Ralph Parlin’s desire to be part of something bigger than himself drew him to enlist in the U.S. Army.  Immediately captivated by the camaraderie, nobility, and love for his fellow Soldiers and country, Ralph committed to a life of service.  Inspired by encouragement from leaders, coupled with a desire to have greater impact, Ralph dedicated himself to becoming an officer and began full-time college study and ROTC.
+
 Commissioned as an Infantry Lieutenant, Ralph immersed himself in Infantry, airborne, and Ranger school before deploying to Iraq in support of the “surge” in 2007, and again in 2009. In Afghanistan as an Infantry Company Commander, Ralph was inspired by the incredible impact the ubiquitous proliferation of technology was having on the battlefield.  Following deployment, Ralph was selected for an Army Fellowship program, where he earned a Master’s in Policy at Georgetown University. Ralph later served as a Military Fellow for Secretary of Defense Ash Carter and later Jim Mattis.
+
 Ralph’s academic and professional experience showed him the transformative power of data compelling him to want to lead change and improve the Defense Department’s ability to better integrate data technology into enterprise process and warfighting domains.  To best effect this change required a professional pivot leading Ralph to apply and be selected as an Operations Research Systems Analyst (ORSA).  Now, Ralph is pursuing his Master’s in Applied Data Science at Syracuse University, helping the Defense Department leverage the transformative power of data.
 
 ## Special Skills and Expertise
 Professionally, I’m an Operations Research Systems Analyst for the U.S. Army, specializing in machine learning, artificial intelligence, and data science policy.  I am committed to developing teams across organizations and continually learning from others. I believe the moment a person stops learning is the same moment they become an ineffective leader. I have worked from the tactical to strategic levels of the Defense Department, and guided by my entrepreneurial spirit, I have built a reputation as a servant leader capable of distilling complex problems into easily understood concepts that lead to executable solutions.
+
 Personally, I’m a husband and a father of two wonderful and time-consuming kids. As a boy in Maine I was a lobster fisherman so I have always had a love for the water.  Now, my family shares that love so when afforded the opportunity, we spend as much time on our small boat as possible.  We have cruised all through the Puget Sound, and more recently the Chesapeake Bay.  We are an active family that loves to cuddle and loves life. 
+
+## Recent Community Service:
+Since moving to the Syracuse NY area, I have volunteered my time with three organizations.  I’m inspired by the work being done by the Institute for Veterans and Military Families at Syracuse University, so immediately after arriving to campus I offered my services to the Research and Policy team.  We have been working on their data strategy which has provided me an opportunity to practice what I’m learning while contributing to a mission I care deeply about.
+
+I also volunteered my services to the marketing director at the National Military Family Association (NMFA) in Washington D.C.  I built a small team of graduate students who specialize in database management to assist with developing a database management solution to streamline marketing operations at NMFA to better connect with, serve, and celebrate military families.
+
+Lastly, I’ve been volunteering at a local ski hill: The Skaneateles Ski Club.  Interestingly, the ski club is the oldest volunteer-run, member-owned ski club east of the Mississippi.  The club is a 501(c)(3) charitable organization established in 1959 with the goal to aid and encourage the development of youth in the community by providing a safe, affordable, and fun place where children and families can participate in winter activities.  It takes a lot of work keeping a ski hill up and running through volunteer effort, but it is so much fun and so fulfilling to see families out there together loving and learning.
+
+## Why I Serve
+Being part of a team has always provided my life meaning and purpose. Playing football throughout my childhood made me feel like I was part of something much bigger than myself. After high school I worked as lobster fisherman and although I loved the romance of the water, I felt isolated, and longed to be part of a team again.  I decided to join the Army and found not only the camaraderie I was seeking, but also a way to serve an even greater good, amongst people motivated to do the same. 
+
+Enlisted as a Private, I initially had no intention to make the Army a career but I eventually committed myself to becoming an officer because I wanted to have a greater impact in the Army I fell in love with.  I have had the honor of leading Soldiers in combat and serving along General officers during the rebuilding of Iraq.   The Army also gave me the opportunity to attend Georgetown University to earn a master’s degree in policy and serve as an Army Fellow for Sectaries of Defense Carter and Mattis. 
+
+My professional experience at operational and strategic levels has taught me many lessons but none so significant as the importance of timely and relevant information.  As a Scout Platoon Leader in Iraq conducting air assault time sensitive targeting operations, my team’s ability to rapidly integrate information into tactical plans was often the difference between mission success and failure.  As an Infantry Company Commander in Afghanistan, I experienced first-hand how having the right information at the right time can be the difference between saving and costing lives.  At the strategic level in the immediate Office of the Secretary of Defense, my team’s ability to synthesize critically important information from across the Department directly impacted policy decisions and national security.
+
+At every level I served, my professional witness to the transformative power of timely and relevant information compelled me to want to lead change in this arena within the Army by improving our ability to better integrate data technology into enterprise process and warfighting. To do so required me to make a professional pivot and become an Operations Research Systems Analyst (ORSA), the data scientist of the Army responsible for the curation of information.  Our service members deserve every advantage over our adversaries.  My purpose is to deliver this advantage.
+
+
+
+
 

@@ -14,11 +14,6 @@ Commissioned as an Infantry Lieutenant, Ralph immersed himself in Infantry, airb
 
 Ralph’s academic and professional experience showed him the transformative power of data compelling him to want to lead change and improve the Defense Department’s ability to better integrate data technology into enterprise process and warfighting domains.  To best effect this change required a professional pivot leading Ralph to apply and be selected as an Operations Research Systems Analyst (ORSA).  Now, Ralph is pursuing his Masters in Applied Data Science at Syracuse University.
 
-## Special Skills and Expertise
-Professionally, I’m an Operations Research Systems Analyst for the U.S. Army, specializing in machine learning, artificial intelligence, data visualization, and data science policy.  I am committed to developing teams across organizations and continually learning from others. I believe the moment a person stops learning is the same moment they start becoming an ineffective leader. I have worked from the tactical to strategic levels of the Defense Department, and guided by my entrepreneurial spirit, I have built a reputation as a servant leader capable of distilling complex problems into easily understood concepts that lead to executable solutions.
-
-Personally, I’m a husband and a father of two wonderful and time-consuming kids. As a boy in Maine I was a lobster fisherman so I have always had a love for the water.  Now, my family shares that love so when afforded the opportunity, we spend as much time on our small boat as possible.  We have cruised all through the Puget Sound, and more recently the Chesapeake Bay.  We are an active family that loves to cuddle and loves life. 
-
 ## Why I Serve
 Being part of a team has always provided my life meaning and purpose. Playing football throughout my childhood made me feel like I was part of something much bigger than myself. After high school I worked as lobster fisherman and although I loved the romance of the water, I felt isolated, and longed to be part of a team again.  I decided to join the Army and found not only the camaraderie I was seeking, but also a way to serve an even greater good, amongst people motivated to do the same. 
 
@@ -34,6 +29,11 @@ Since moving to the Syracuse NY area, I have volunteered my time with three orga
 I also volunteered my services to the marketing director at the National Military Family Association (NMFA) in Washington D.C.  I built a small team of graduate students who specialize in database management to assist with developing a database management solution to streamline marketing operations at NMFA to better connect with, serve, and celebrate military families.
 
 Lastly, I’ve been volunteering at a local ski hill: The Skaneateles Ski Club.  Interestingly, the ski club is the oldest volunteer-run, member-owned ski club east of the Mississippi.  The club is a 501(c)(3) charitable organization established in 1959 with the goal to aid and encourage the development of youth in the community by providing a safe, affordable, and fun place where children and families can participate in winter activities.  It takes a lot of work keeping a ski hill up and running through volunteer effort, but it is so much fun and so fulfilling to see families out there together loving and learning.
+
+## Outlook and Life
+Professionaly, I am committed to developing teams across organizations and continually learning from others. I believe the moment a person stops learning is the same moment they start becoming an ineffective leader. I have worked from the tactical to strategic levels of the Defense Department, and guided by my entrepreneurial spirit, I have built a reputation as a servant leader capable of distilling complex problems into easily understood concepts that lead to executable solutions.
+
+Personally, I’m a husband and a father of two wonderful and time-consuming kids. As a boy in Maine I was a lobster fisherman so I have always had a love for the water.  Now, my family shares that love so when afforded the opportunity, we spend as much time on our small boat as possible.  We have cruised all through the Puget Sound, and more recently the Chesapeake Bay.  We are an active family that loves to cuddle and loves life. 
 
 
 

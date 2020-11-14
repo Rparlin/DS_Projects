@@ -8,7 +8,7 @@ During his tenure, Secretary of Defense Mark EsperAs an ORSA among many great of
 
 ## Biography
 
-### " I’ve experienced first-hand how having correct information at the right time can be the difference between saving and costing lives.  Getting this right is my purpose."
+### "I’ve experienced first-hand how having correct information at the right time can be the difference between saving and costing lives.  Getting this right is my purpose."
 
 Working as a lobster fisherman in Maine after high school, Ralph Parlin’s desire to be part of something bigger than himself drew him to enlist in the U.S. Army.  Immediately captivated by the camaraderie, nobility, and love for his fellow Soldiers and country, Ralph committed to a life of service.  Inspired by encouragement from leaders, coupled with a desire to have greater impact, Ralph dedicated himself to becoming an officer and began full-time college study and ROTC.
 

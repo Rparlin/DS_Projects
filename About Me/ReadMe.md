@@ -27,7 +27,7 @@ My professional experience at operational and strategic levels has taught me man
 
 At every level I served, my professional witness to the transformative power of timely and relevant information compelled me to want to lead change in this arena within the Army by improving our ability to better integrate data technology into enterprise process and warfighting. To do so required me to make a professional pivot and become an Operations Research Systems Analyst (ORSA), the data scientist of the Army responsible for the curation of information.  Our service members deserve every advantage over our adversaries.  My purpose is to deliver this advantage.
 
-## Recent Community Service:
+## Recent Community Service
 Since moving to the Syracuse NY area, I have volunteered my time with three organizations.  I’m inspired by the work being done by the Institute for Veterans and Military Families at Syracuse University, so immediately after arriving to campus I offered my services to the Research and Policy team.  We have been working on their data strategy which has provided me an opportunity to practice what I’m learning while contributing to a mission I care deeply about.
 
 I also volunteered my services to the marketing director at the National Military Family Association (NMFA) in Washington D.C.  I built a small team of graduate students who specialize in database management to assist with developing a database management solution to streamline marketing operations at NMFA to better connect with, serve, and celebrate military families.

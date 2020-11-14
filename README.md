@@ -1,5 +1,5 @@
 # DS_Projects
-## Hello!  This repo is a small collection of Data Science related work I wanted to share. I'll be adding to it daily!
+## Hello!  This repo is a small collection of Data Science related work I wanted to share. I'll be adding to it over teh next few days.  Also, be sure to check out the bio section to learn a little about me.
 
 Included in this repo are a collection of material (scripts, reports, graphics, etc.) that showcase a portion of my recent work. Each section below provides a little detail about the material in the repo.
 

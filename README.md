@@ -5,13 +5,14 @@ This repo includes a collection of material (scripts, reports, graphics, etc.) t
 
 Tools|Techniques
 ------------|-------------
-R-Python|Correlation-Text Analysis
+R|Correlation
+Python|Text Analysis
+Exce|Ensemble Learning
+Access|Decision Trees
+SQL|K-Means Clustering
+Tableau|KNN
 
 
-- Excel |
-- Access
-- SQL 
-- Tableau
 - Spark
 - Weka
 - Adobe

@@ -65,4 +65,4 @@ If you don't have Spark (Java/Hadoop) installed on your computer, simply downloa
 
 **************************************************************************************************************************************************************************************
 ## Data_Parlin_Final_Portfolio
-This is an older product that I built while doing research on my Capstone Thesis at Georgetown.  It explores a collection of data on the sahring-economy adn is designed to inform policy position.
+This is an older product that I built while doing research on my Capstone Thesis at Georgetown.  It explores a collection of data on the sharing-economy and is designed to inform policy position.

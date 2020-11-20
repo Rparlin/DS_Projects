@@ -3,22 +3,41 @@
 
 This repo includes a collection of material (scripts, reports, graphics, etc.) that showcase a portion of my recent work. Each section below provides a little detail about the artificats in the repo.  Below are a smaple of tools and techniques I've been using with my research over the last few years.
 
-## Tools                         Techniques
--R	Excel	                       -Correlation	                            -Text Analysis        
--Python                          -Decision Trees                          -K-Means Clustering
--Access	                         -Linear & Non-linear Regression	        -Logit
--SQL                             -Probit	
--Tableau		                     -ANOVA	
--Spark		                       -Factor Analysis (Composites, PCA)
--Weka		                         -SVMs
--Adobe 		                       -ANNs
--Arena Simulation	               -Traditional/Bayesian Statistics
--Orange                          -Niave Bayes
--Stata                           -Random Forest
--MiniTab                         -Association Rules
--Illustrator                     -KNN
--PowerBI	                        -Ensemble Learning	
-	
+## Tools                        
+-R	
+-Python 
+-Excel
+-Access	                         	        
+-SQL                             	
+-Tableau		                     	
+-Spark		                       
+-Weka		                         
+-Adobe 		                      
+-Arena Simulation	               
+-Orange                          
+-Stata                           
+-MiniTab                         
+-Illustrator                     
+-PowerBI
+
+## Techniques
+-Correlation
+-Text Analysis
+-Ensemble Learning
+-Decision Trees
+-K-Means Clustering
+-KNN
+-Association Rules
+-Random Forest
+-Niave Bayes
+-Traditional/Bayesian Statistics
+-ANNs
+-SVMs
+-ANOVA
+-Factor Analysis (Composites, PCA)
+-Probit
+-Linear & Non-linear Regression
+-Logit
 			
 		
 

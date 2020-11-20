@@ -1,7 +1,27 @@
 # Data Science Projects
 ## Hello!  This repo is a small collection of Data Science related work I wanted to share. I'll be adding to it over the next few days.  Also, be sure to check out the "About Me" section to help determine if I'll be a good fit.
 
-This repo includes a collection of material (scripts, reports, graphics, etc.) that showcase a portion of my recent work. Each section below provides a little detail about the artificats in the repo.
+This repo includes a collection of material (scripts, reports, graphics, etc.) that showcase a portion of my recent work. Each section below provides a little detail about the artificats in the repo.  Below are a smaple of tools and techniques I've been using with my research over the last few years.
+
+## Tools                         Techniques
+-R	Excel	                       -Correlation	                            -Text Analysis        
+-Python                          -Decision Trees                          -K-Means Clustering
+-Access	                         -Linear & Non-linear Regression	        -Logit
+-SQL                             -Probit	
+-Tableau		                     -ANOVA	
+-Spark		                       -Factor Analysis (Composites, PCA)
+-Weka		                         -SVMs
+-Adobe 		                       -ANNs
+-Arena Simulation	               -Traditional/Bayesian Statistics
+-Orange                          -Niave Bayes
+-Stata                           -Random Forest
+-MiniTab                         -Association Rules
+-Illustrator                     -KNN
+-PowerBI	                        -Ensemble Learning	
+	
+			
+		
+
 
 ## Recreational Boating Accidents
 ### Dataset: 

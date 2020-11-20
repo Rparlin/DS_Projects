@@ -31,7 +31,7 @@ This repo includes a collection of material (scripts, reports, graphics, etc.) t
 - Random Forest
 - Niave Bayes
 - Traditional/Bayesian Statistics
-- ANNs
+- ANNs/ Deep Learning
 - SVMs
 - ANOVA
 - Factor Analysis (Composites, PCA)
@@ -39,7 +39,7 @@ This repo includes a collection of material (scripts, reports, graphics, etc.) t
 - Linear & Non-linear Regression
 - Logit
 - MCMC
-			
+- Conjoint Analysis		
 		
 
 

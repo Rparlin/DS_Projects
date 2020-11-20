@@ -21,7 +21,6 @@ This repo includes a collection of material (scripts, reports, graphics, etc.) t
 - PowerBI
 
 ## Techniques
-- Correlation
 - Text Analysis
 - Ensemble Learning
 - Decision Trees

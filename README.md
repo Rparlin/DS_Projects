@@ -5,8 +5,9 @@ This repo includes a collection of material (scripts, reports, graphics, etc.) t
 
        Tools            |            Techniques
 ------------            |           -------------
-- R	| - Python	|	- Correlation | - Text Analysis
- |
+R-Python|Correlation-Text Analysis
+
+
 - Excel |
 - Access
 - SQL 

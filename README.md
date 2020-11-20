@@ -3,27 +3,6 @@
 
 This repo includes a collection of material (scripts, reports, graphics, etc.) that showcase a portion of my recent work. Each section below provides a little detail about the artificats in the repo.  Below are a smaple of tools and techniques I've been using with my research over the last few years.
 
-Tools|Techniques
-------------|-------------
-R|Correlation
-Python|Text Analysis
-Exce|Ensemble Learning
-Access|Decision Trees
-SQL|K-Means Clustering
-Tableau|KNN
-
-
-- Spark
-- Weka
-- Adobe
-- Arena Simulation
-- Orange
-- Stata
-- MiniTab
-- Illustrator
-- PowerBI | Content from cell 2
-Content in the first column | Content in the second column
-
 ## Tools                        
 - R
 - Python

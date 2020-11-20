@@ -3,10 +3,10 @@
 
 This repo includes a collection of material (scripts, reports, graphics, etc.) that showcase a portion of my recent work. Each section below provides a little detail about the artificats in the repo.  Below are a smaple of tools and techniques I've been using with my research over the last few years.
 
-Tools   | Techniques
------------- | -------------
-- R	|
-- Python |
+       Tools            |            Techniques
+------------            |           -------------
+- R	| - Python	|	- Correlation | - Text Analysis
+ |
 - Excel |
 - Access
 - SQL 

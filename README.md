@@ -3,7 +3,7 @@
 
 ## Tools
 
-| --- | --- |
+| --- | --- | --- |
 | Access | Adobe | Arena Simulation |
 | Excel | Illustrator | MiniTab |
 

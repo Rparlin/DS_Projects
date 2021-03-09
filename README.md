@@ -2,6 +2,7 @@
 ## Hello! This repo includes a collection of material (scripts, reports, graphics, etc.) that showcase a portion of my recent work. Each section below provides a little detail about the artifacts in the repo.  Below are a sample of tools and techniques I've been using with my work over the last few years.  This is very much a rough draft and will be updated over the next few months.
 
 ## Tools
+
 | --- | --- |
 | Access | Adobe | Arena Simulation |
 | Excel | Illustrator | MiniTab |

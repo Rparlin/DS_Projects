@@ -1,7 +1,7 @@
 # Data Science Projects
 ## Hello!  This repo is a small collection of Data Science related work I wanted to share. I'll be adding to it over the next few days.  Also, be sure to check out the "About Me" section to help determine if I'll be a good fit.
 
-This repo includes a collection of material (scripts, reports, graphics, etc.) that showcase a portion of my recent work. Each section below provides a little detail about the artificats in the repo.  Below are a smaple of tools and techniques I've been using with my research over the last few years.
+This repo includes a collection of material (scripts, reports, graphics, etc.) that showcase a portion of my recent work. Each section below provides a little detail about the artifacts in the repo.  Below are a sample of tools and techniques I've been using with my research over the last few years.
 
 ## Tools                        
 - R

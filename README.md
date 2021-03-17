@@ -12,26 +12,13 @@
 
 
 ## Techniques
-- Text Analysis
-- Ensemble Learning
-- Decision Trees
-- K-Means Clustering
-- KNN
-- Association Rules
-- Random Forest
-- Niave Bayes
-- Traditional/Bayesian Statistics
-- ANNs/ Deep Learning
-- SVMs
-- ANOVA
-- Factor Analysis (Composites, PCA)
-- Probit
-- Linear & Non-linear Regression
-- Logit
-- MCMC
-- Conjoint Analysis		
-		
 
+| Techniques |  |  |  |   |
+| --- | --- | --- |--- | --- |
+| ANNs/ Deep Learning | ANOVA | Association Rules | Conjoint Analysis | Decision Trees| 
+| Ensemble Learning | Factor Analysis (Composites, PCA) | K-Means Clustering | KNN | Linear & Non-linear Programming |  
+|Linear & Non-linear Regression | Logit |MCMC|Niave Bayes | Optimization |
+|Probit | Random Forest |SVMs|Text Analysis | Traditional/Bayesian Statistics |
 
 ## Recreational Boating Accidents
 ### Dataset: 

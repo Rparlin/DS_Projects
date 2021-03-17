@@ -3,8 +3,8 @@
 
 ## Tools 
 
-| Tools |  |  |  |   |   |
-| --- | --- | --- |--- | --- | --- |
+| Tools |  |  |  |   |
+| --- | --- | --- |--- | --- |
 | Access | Adobe | Arena Simulation | Excel | Illustrator | 
 | MiniTab | Orange | Power BI | Python | R |  
 |Spark | SQL |Stata|Tableau | Weka |

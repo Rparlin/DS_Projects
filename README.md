@@ -19,6 +19,7 @@
 | Ensemble Learning | Factor Analysis (Composites, PCA) | K-Means Clustering | KNN | Linear & Non-linear Programming |  
 |Linear & Non-linear Regression | Logit |MCMC|Niave Bayes | Optimization |
 |Probit | Random Forest |SVMs|Text Analysis | Traditional/Bayesian Statistics |
+##
 
 ## Recreational Boating Accidents
 ### Dataset: 

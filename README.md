@@ -5,24 +5,11 @@
 
 | Tools |  |  |  |   |   |
 | --- | --- | --- |--- | --- | --- |
-| Access | Adobe | Arena Simulation | Excel | Illustrator | MiniTab |
+| Access | Adobe | Arena Simulation | Excel | Illustrator | 
+| MiniTab | Orange | Power BI | Python | R | Spark | 
+| SQL |Stata|Tableau | Weka |
 
 
-- R
-- Python
-- Excel -
-- Access -
-- SQL 
-- Tableau
-- Spark
-- Weka
-- Adobe -
-- Arena Simulation -
-- Orange
-- Stata
-- MiniTab
-- Illustrator -
-- PowerBI
 
 ## Techniques
 - Text Analysis

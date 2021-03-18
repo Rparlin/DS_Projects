@@ -69,7 +69,7 @@ The analysis was conducted using Association Rule Mining using the Apriori algor
 ************************************************************************************************************************************************************************************
 ## Online Learning Outcomes: Impacts of Demographic, Socioeconomic, and Student Behavior
 
-The world is currently undergoing the largest online learning academic endeavor ever recorded. Around the globe, students and teachers from kindergarten through college, with little warning, have migrated their classrooms from physical to virtual environments. The shear timeline and volume of this shift is astonishing. However, will this new-normal compromise the quality of education? This analysis uses Linear Statistical Methods to dsicover what impacts student and learning platform charateristics have on learning outcomes.
+The world is currently undergoing the largest online learning academic endeavor ever recorded. Around the globe, students and teachers from kindergarten through college, with little warning, have migrated their classrooms from physical to virtual environments. The shear timeline and volume of this shift is astonishing. However, will this new-normal compromise the quality of education? This analysis uses Linear Statistical Modeling techniques to discover how student demographics and learning platform charateristics impact online learning outcomes.
 
 **************************************************************************************************************************************************************************************
 ## Shakespeare Anyone?

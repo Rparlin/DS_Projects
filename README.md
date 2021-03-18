@@ -50,7 +50,7 @@ There has been much discussion on Army recruiting for decades, but today’s dat
 - How can the Army better understand the defining characteristics of their target market and better communicate the Army’s value proposition to these candidates?  
 - How can the Army better connect with the critical influencers that help young men and women make the decision to join?  
 - What makes some recruiters more successful than others?
-For example, the Army can model its current successful Soldiers that have decided to serve beyond their first enlistment and see what data patterns emerge and use this insight to inform future selection of candidates.  
+Can the Army model its current successful Soldiers that have decided to serve beyond their first enlistment and see what data patterns emerge and use this insight to inform future selection of candidates.  
 
 This paper explores several machine learning and data mining techniques that could be useful in finding answers to questions like these and facilitate Army marketing efforts.   
 
